@@ -1,0 +1,18 @@
+Follow mouse around screen
+3d
+
+
+
+things to do for proto
+
+ai copy exactly 
+animations
+2 numbers
+random positions
+
+
+done:
+keyboard players - capela
+random patterns - other andrew
+mouse play - capela
+smiting - capela
